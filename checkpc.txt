@@ -4,5 +4,5 @@
 2;iconClient.zip;client_zip;1199869;3155808;5763585;9122966
 3;jasr.dll;jasr.dll;12288
 4;LangLa.exe;LangLa.exe;148687
-5;core.jar;core.jar;716891
+5;core.jar;core.jar;729940
 6;gdx.jar;gdx.jar;7926170
